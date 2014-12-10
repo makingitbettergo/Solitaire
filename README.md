@@ -1,7 +1,8 @@
 Solitaire
 =========
 
-This was developed for Data Structure and Algorithms at AUT.
+This was developed as an assignment for Data Structures and Algorithms sem 1 2014 at AUT.
+It comes with absolute NO wARRANTY.
 
 It doesn't require D&D.
 The game logic is completed.
