@@ -2,7 +2,7 @@ Solitaire
 =========
 
 This was developed as an assignment for Data Structures and Algorithms sem 1 2014 at AUT.
-It comes with absolute NO WARRANTY.
+<p>It comes with absolute NO WARRANTY.</p>
 
 It doesn't require D&D.
 The game logic is completed.
